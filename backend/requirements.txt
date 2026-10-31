@@ -1,0 +1,12 @@
+# scikit-learn is pinned to the version that trained real_fake_hog.joblib (1.6.1).
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pydantic>=2.6
+numpy>=2.0,<2.3
+scikit-learn==1.6.1
+scikit-image>=0.24
+joblib>=1.4
+Pillow>=10.3
+pytest>=8
+httpx>=0.27
